@@ -1,3 +1,4 @@
+
 class GameApp {
   constructor() {
     this.myLinks = document.querySelectorAll(".nav-link");
