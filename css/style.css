@@ -4,7 +4,8 @@
 body {
   background-color: #2a2e33;
   color: white;
-  font-family: "Comfortaa", cursive;
+  font-family: "Comfortaa";
+  font-size: 19px;
 }
 ::-webkit-scrollbar {
   width: 10px;
@@ -88,13 +89,14 @@ a {
 }
 .details h1,
 h3 {
+  font-family: "Comfortaa", cursive;
   font-weight: 500;
   font-size: 28px;
   line-height: 34px;
 }
 .details p {
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 21px;
 }
 .details #Category,
